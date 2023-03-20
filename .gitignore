@@ -1,0 +1,4 @@
+*.json
+
+.talismanrc
+node_modules
